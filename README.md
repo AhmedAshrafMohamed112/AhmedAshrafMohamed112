@@ -12,37 +12,29 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedAshrafMohamed112&style=flat&color=blue" height="25"/>
 <h3 align="left">📤 Connect with Me:</h3>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-ashraf-9a5308225/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square&labelColor=black" height="20" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="https://codeforces.com/profile/Ashraf">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3521352-2944777.png" height="25" alt="Codeforces"/>
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/Codeforces-000000?logo=codeforces&logoColor=white&style=flat-square&labelColor=black" height="20" alt="Codeforces"/>
+  </a>&nbsp;
   <a href="https://leetcode.com/u/ahmedashrafmohamed112/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square&labelColor=black" height="20" alt="LeetCode"/>
+  </a>&nbsp;
   <a href="https://wa.me/01025811438">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="25" alt="WhatsApp"/>
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square&labelColor=black" height="20" alt="WhatsApp"/>
+  </a>&nbsp;
   <a href="https://x.com/a_ashraf2025">
-    <img src="https://skillicons.dev/icons?i=twitter" height="25" alt="Twitter/X"/>
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=flat-square&labelColor=black" height="20" alt="X"/>
+  </a>&nbsp;
   <a href="https://www.instagram.com/ashraf0x01?igsh=dXVqZWJ5bW96ODJq">
-    <img src="https://skillicons.dev/icons?i=instagram" height="25" alt="Instagram"/>
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square&labelColor=black" height="20" alt="Instagram"/>
+  </a>&nbsp;
   <a href="https://www.facebook.com/AhmedAshrafMohamed2002">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" height="25" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square&labelColor=black" height="20" alt="Facebook"/>
   </a>
 </p>
-
 
 
 <h3 align="left">🧠 About Me:</h3>
