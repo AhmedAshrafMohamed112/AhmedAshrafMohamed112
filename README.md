@@ -17,23 +17,29 @@
   <a href="https://www.linkedin.com/in/ahmed-ashraf-9a5308225/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
+  
   <a href="https://codeforces.com/profile/Ashraf">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="25" alt="Codeforces"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3521352-2944777.png" height="25" alt="Codeforces"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/ahmedashrafmohamed112/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="25" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25" alt="LeetCode"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://wa.me/01025811438">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="25" alt="WhatsApp"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="25" alt="WhatsApp"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://x.com/a_ashraf2025">
     <img src="https://skillicons.dev/icons?i=twitter" height="25" alt="Twitter/X"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/ashraf0x01?igsh=dXVqZWJ5bW96ODJq">
     <img src="https://skillicons.dev/icons?i=instagram" height="25" alt="Instagram"/>
   </a>&nbsp;&nbsp;
+
   <a href="https://www.facebook.com/AhmedAshrafMohamed2002">
-    <img src="https://skillicons.dev/icons?i=facebook" height="25" alt="Facebook"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" height="25" alt="Facebook"/>
   </a>
 </p>
 
