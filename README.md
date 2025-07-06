@@ -1,10 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm Ahmed Ashraf</h1>
-
-<p align="center">
-  I am a junior CS student with a strong passion for competitive programming, problem-solving, data structures, algorithms, and software development.  
-  Eager to apply my skills in backend development, I am continuously learning and improving to tackle complex challenges in the tech industry.
-</p>
-
 <p align="center">
   <a href="https://www.google.com/search?q=ahmed+ashraf+developer">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Competitive%20Programmer;2X%20ECPC%20Finalist;.NET%20Developer;Full%20Stack%20Developer;Let's%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000" alt="Typing Animation">
