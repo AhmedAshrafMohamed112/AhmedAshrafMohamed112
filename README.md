@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://www.google.com/search?q=ahmed+ashraf+developer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Competitive%20Programmer;.NET%20Developer;Full%20Stack%20Developer;Let's%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Competitive%20Programmer;2X%20ECPC%20Finalist;.NET%20Developer;Full%20Stack%20Developer;Let's%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000">
   </a>
 </p>
+
 
 
 
