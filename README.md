@@ -5,9 +5,11 @@
 
 <p align="center">
   <a href="https://www.google.com/search?q=ahmed+ashraf+developer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=2X%20ECPC%20Finalist%20(2023,%202024);.NET%20Back-End%20Developer;Full%20Stack%20Engineer;Problem%20Solver%20%26%20ICPC%20Instructor;Let%27s%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Competitive%20Programmer;.NET%20Developer;Full%20Stack%20Developer;Let's%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000">
   </a>
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedAshrafMohamed112&style=flat&color=blue" height="25"/>
@@ -44,8 +46,8 @@
   Developed backend solutions using C#, EF Core, LINQ, and MVC.  
   Designed and managed databases with MySQL.
 - 👨‍🏫 Technical Head / Instructor at [ICPC USC Community](https://www.facebook.com/profile.php?id=100066890643130)  
-  Led the technical training and mentorship for university students competing in the International Collegiate Programming Contest (ICPC).  
-  Organized problem-solving sessions, prepared weekly contests, and delivered lectures on algorithms, data structures, and competitive programming techniques.
+  Volunteered as the technical head, supporting fellow students preparing for the ICPC.  
+  Led problem-solving sessions, organized internal contests, shared learning resources, and guided peers to improve their algorithmic and coding skills.
 - 🏆 2X ECPC Finalist (2023, 2024) — [ICPC ID](https://icpc.global/private/person/801524/ICPCID)
 - 💡 Solved over 2500+ Problems on platforms like 
   [Codeforces](https://codeforces.com/profile/Ashraf), 
