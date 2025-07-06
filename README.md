@@ -13,26 +13,27 @@
   <img src="https://komarev.com/ghpvc/?username=AhmedAshrafMohamed112&style=flat&color=blue" height="25"/>
 </p>
 <h3 align="left">📤 Connect with Me:</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-ashraf-9a5308225/">
+  <a href="https://www.linkedin.com/in/ahmed-ashraf-9a5308225/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://codeforces.com/profile/Ashraf">
+  </a>
+  <a href="https://codeforces.com/profile/Ashraf" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3521352-2944777.png" height="25" alt="Codeforces"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/ahmedashrafmohamed112/">
+  </a>
+  <a href="https://leetcode.com/u/ahmedashrafmohamed112/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25" alt="LeetCode"/>
-  </a>&nbsp;
-  <a href="https://wa.me/01025811438">
+  </a>
+  <a href="https://wa.me/01025811438" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="25" alt="WhatsApp"/>
-  </a>&nbsp;
-  <a href="https://x.com/a_ashraf2025">
+  </a>
+  <a href="https://x.com/a_ashraf2025" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" height="25" alt="Twitter/X"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/ashraf0x01?igsh=dXVqZWJ5bW96ODJq">
+  </a>
+  <a href="https://www.instagram.com/ashraf0x01?igsh=dXVqZWJ5bW96ODJq" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="25" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://www.facebook.com/AhmedAshrafMohamed2002">
+  </a>
+  <a href="https://www.facebook.com/AhmedAshrafMohamed2002" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" height="25" alt="Facebook"/>
   </a>
 </p>
