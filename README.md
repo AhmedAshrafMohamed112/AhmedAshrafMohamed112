@@ -11,31 +11,32 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedAshrafMohamed112&style=flat&color=blue" height="25"/>
-</p><h3 align="left">📤 Connect with Me:</h3>
+<h3 align="left">📤 Connect with Me:</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-ashraf-9a5308225/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="23" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/Ashraf">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3521352-2944777.png" height="23" alt="Codeforces"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3521352-2944777.png" height="18" alt="Codeforces"/>
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ahmedashrafmohamed112/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="23" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="18" alt="LeetCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/01025811438">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="23" alt="WhatsApp"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="18" alt="WhatsApp"/>
   </a>&nbsp;&nbsp;
   <a href="https://x.com/a_ashraf2025">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" height="23" alt="X"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" height="18" alt="X"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/ashraf0x01?igsh=dXVqZWJ5bW96ODJq">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="23" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="18" alt="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/AhmedAshrafMohamed2002">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" height="23" alt="Facebook"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145802.png" height="18" alt="Facebook"/>
   </a>
 </p>
+
 
 <h3 align="left">🧠 About Me:</h3>
 
