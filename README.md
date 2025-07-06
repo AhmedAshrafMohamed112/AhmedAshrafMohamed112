@@ -1,13 +1,18 @@
-<h1 align="center">Hey there! 👋 I'm Ahmed Ashraf</h1>
+<h1 align="center">Hi, I'm Ahmed Ashraf — Software Engineer & Competitive Programmer</h1>
 
-<h2 align="center">Software Engineer | Competitive Programmer | .NET Developer | Full Stack</h2>
+<p align="center">
+  I am a junior CS student with a strong passion for competitive programming, problem-solving, data structures, algorithms, and software development.  
+  Eager to apply my skills in backend development, I am continuously learning and improving to tackle complex challenges in the tech industry.
+</p>
+
 <br>
 
 <p align="center">
   <a href="https://www.google.com/search?q=ahmed+ashraf+developer">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Competitive%20Programmer;2X%20ECPC%20Finalist;.NET%20Developer;Full%20Stack%20Developer;Let's%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Competitive%20Programmer;2X%20ECPC%20Finalist;.NET%20Developer;Full%20Stack%20Developer;Let's%20Connect!&font=Fira%20Code&center=true&color=00BFFF&pause=2000" alt="Typing Animation">
   </a>
 </p>
+
 
 
 
@@ -47,7 +52,7 @@
   Developed backend solutions using C#, EF Core, LINQ, and MVC.  
   Designed and managed databases with MySQL.
 - 👨‍🏫 Technical Head / Instructor at [ICPC USC Community](https://www.facebook.com/profile.php?id=100066890643130)  
-  Volunteered as the technical head, supporting fellow students preparing for the ICPC.  
+  Volunteered as the technical head, supporting fellow students preparing for the ECPC.  
   Led problem-solving sessions, organized internal contests, shared learning resources, and guided peers to improve their algorithmic and coding skills.
 - 🏆 2X ECPC Finalist (2023, 2024) — [ICPC ID](https://icpc.global/private/person/801524/ICPCID)
 - 💡 Solved over 2500+ Problems on platforms like 
