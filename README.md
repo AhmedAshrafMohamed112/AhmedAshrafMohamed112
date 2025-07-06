@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm Ahmed Ashraf — Software Engineer & Competitive Programmer</h1>
+<h1 align="center">Hey there! 👋 I'm Ahmed Ashraf</h1>
 
 <p align="center">
   I am a junior CS student with a strong passion for competitive programming, problem-solving, data structures, algorithms, and software development.  
   Eager to apply my skills in backend development, I am continuously learning and improving to tackle complex challenges in the tech industry.
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://www.google.com/search?q=ahmed+ashraf+developer">
@@ -13,6 +11,14 @@
   </a>
 </p>
 
+<br>
+
+<h3 align="center">🧑‍💻 About Me</h3>
+
+<p align="center">
+  I am a junior CS student with a strong passion for competitive programming, problem-solving, data structures, algorithms, and software development.  
+  Eager to apply my skills in backend development, I am continuously learning and improving to tackle complex challenges in the tech industry.
+</p>
 
 
 
