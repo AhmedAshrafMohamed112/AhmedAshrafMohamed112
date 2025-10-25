@@ -56,7 +56,7 @@
 
 <h3 align="left">📄 Download My CV:</h3>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1FLoxMQTt2VtJf7T2Ky6_tP6tZVzy_S1f/view" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-%230096d6?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
